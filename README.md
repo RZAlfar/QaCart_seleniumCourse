@@ -46,9 +46,18 @@ To get started with the course materials, follow these steps:
 
 ## Contact Information 📧
 
-For any inquiries or further information, feel free to reach out to me:
-- [![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=microsoft-outlook&logoColor=white&labelColor=orange)](mailto:razan.alfar@outlook.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/razan-alfar/)
+[![Website](https://img.shields.io/badge/Website-Contact%20Me-9cf)](https://flowcv.me/razan-alfar)
+
+🌐 Visit my website to learn more about me and get in touch!
+
+📞 Contact Information:
+- Email: [razan.alfar@outlook.com](mailto:razan.alfar@outlook.com)
+- LinkedIn: [Razan Alfar](https://www.linkedin.com/in/razan-alfar/)
+
+📄 Don't forget to check out my [CV](https://flowcv.me/razan-alfar) for more details about my skills and experience.
+
+👋 Let's connect and collaborate on exciting projects together!
+
 ## Certificate 🏅
 
 I have received the **Selenium WebDriver** certificate of completion from [QAcart](https://www.qacart.com). You can download the certificate [here](https://1drv.ms/b/s!Avr4Qvw-1xQ1gdEEWp_-FQUQRDd2Dg?e=F0Bv15). 📜
