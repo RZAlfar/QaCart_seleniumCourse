@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-29T10:34:48 EET" name="Default suite" finished-at="2023-06-29T10:34:51 EET" duration-ms="2674">
+    <groups>
+    </groups>
+    <test started-at="2023-06-29T10:34:48 EET" name="Default test" finished-at="2023-06-29T10:34:51 EET" duration-ms="2674">
+      <class name="visitingWebsites">
+        <test-method is-config="true" signature="before()[pri:0, instance:visitingWebsites@652ab8d9]" started-at="2023-06-29T10:34:48 EET" name="before" finished-at="2023-06-29T10:34:49 EET" duration-ms="925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="alerts()[pri:0, instance:visitingWebsites@652ab8d9]" started-at="2023-06-29T10:34:49 EET" name="alerts" finished-at="2023-06-29T10:34:51 EET" duration-ms="1662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerts -->
+        <test-method is-config="true" signature="after()[pri:0, instance:visitingWebsites@652ab8d9]" started-at="2023-06-29T10:34:51 EET" name="after" finished-at="2023-06-29T10:34:51 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- visitingWebsites -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
