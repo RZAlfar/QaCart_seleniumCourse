@@ -20,8 +20,7 @@ The Selenium WebDriver course covers the following topics:
 5. Handling multiple windows and frames
 6. Implementing waits for synchronization
 7. Handling alerts and pop-ups
-8. TestNG framework for test management
-9. Best practices and techniques for test automation
+8. Best practices and techniques for test automation
 
 ## Repository Structure 📁
 
